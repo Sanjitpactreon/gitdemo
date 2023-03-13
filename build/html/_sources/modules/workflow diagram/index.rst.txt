@@ -1,0 +1,13 @@
+Workflow diagram
+=================
+
+Lucidchart
+++++++++++++
+
+* introduction to lucidchart through various tutorials
+
+* Understood basic shapes and blocks
+
+* how to edit various elements for better understanding of the diagram
+
+* made a basic workflow diagram using template
