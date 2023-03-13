@@ -7,3 +7,4 @@ Sublime merge
 
 * Tried to commit to remote repository
 
+* Successfully pushed committed changes to remote repo using sublime merge
